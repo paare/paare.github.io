@@ -2,7 +2,7 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": false,
-  "entryAssembly": "SampleBlazor",
+  "entryAssembly": "MyBlazorPwa",
   "icuDataMode": 0,
   "linkerEnabled": false,
   "resources": {
@@ -35,8 +35,8 @@
       "Microsoft.Win32.Primitives.dll": "sha256-IEXESPOJL7ygKE\/Tf4luLoeG\/oC7YyKV6QWMQazTcjA=",
       "Microsoft.Win32.Registry.dll": "sha256-XYX\/dStbOMM1f+rHHUI0LElkEIaiPiM8N5hoLuTHV0o=",
       "mscorlib.dll": "sha256-tlYWYAypJO+6gsCjV734iAJn8xcZYhUjM7vgxDLJluE=",
+      "MyBlazorPwa.dll": "sha256-qBblfBcvn\/Wl230KQc7ZRnomR3EhyYuBeENKSYrkwMc=",
       "netstandard.dll": "sha256-E48Na3ZQWKExltzTwgP0Ao+UqWhiVYeerXfUL9lEc+c=",
-      "SampleBlazor.dll": "sha256-R8LH9+JQmrzLzbVMMiVTgbfHqAjs9KSXV71L\/Nb7VEY=",
       "System.AppContext.dll": "sha256-TsPHr55+uSIUhtQC3Gtuo409WpT3X0T63QC3ovuWdFc=",
       "System.Buffers.dll": "sha256-lCbK09VKOyTWE\/QM+jk6he26Zcd+y228MZZgw4L792k=",
       "System.Collections.Concurrent.dll": "sha256-mja7X5owDZQ9L1UBe3LR76RhVinE17Vl+BLge+YVCKI=",
